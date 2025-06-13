@@ -1,9 +1,10 @@
 ---
 layout: default
+permalink: license/
 ---
 
 Unless otherwise specified, all content on DevelopSpace.org is licensed under the
-[Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/). A copy of the license text is available (here)[CC-BY-4.0.txt]. This license
+[Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/). A copy of the license text is available [here](../LICENSE.txt). This license
 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long
 as attribution is given to the creator. Attribution can be provided by linking to the relevant page on DevelopSpace.org.
 
