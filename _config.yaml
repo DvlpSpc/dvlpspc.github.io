@@ -27,8 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://developspace.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DvlpSpc
 github_username:  DvlpSpc
-license: "CC BY-SA" # Example: Creative Commons Attribution-ShareAlike
-license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+license: "CC-BY-4.0" # Example: Creative Commons Attribution-ShareAlike
+license_url: "https://creativecommons.org/licenses/by/4.0/"
 
 # Build settings
 theme: minima
