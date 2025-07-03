@@ -20,7 +20,7 @@ openness).
 We see this openness as offering significant benefits for space development, 
 helping to accelerate progress in a number of areas and broaden the awareness
 and support for the development of space. Open-sharing of information can increase
-the amount of review and feedback on on the provided information, and help
+the amount of review and feedback on the provided information, and help
 faciltate others building on prior work rather than having to reinvent things
 that have been done before. Freely-accessible information also helps people from
 a wide variety of backgrounds learn about space science and engineering, and discover
