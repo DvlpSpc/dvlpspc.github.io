@@ -1,0 +1,64 @@
+---
+layout: default
+title: Grants
+permalink: grants/
+---
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+# Overview
+
+DevelopSpace is initiating a grants program to support projects working in relevant science
+and engineering areas that share their results and methods in an open manner.
+
+We intend to request grant applications on a periodic basis, with funding opportunities
+two to three times per year. The initial call for proposals is expected to be released
+in July 2025, with proposals due before the end of August. You can signup to receive
+updates on our grant program and DevelopSpace more generally through the form at the bottom of this page.
+
+# Topic Areas
+
+Our first round of grants is focused on work that contributes to the human exploration
+and development of Mars, including science and engineering work associated with Mars
+surface resources and operations. Work that is relevant to both Mars and the Moon, and 
+potentially a broader set of destinations, is also supported. 
+
+In general, we are interested in supporting work that will have ongoing value and that
+can be built upon further after the grant effort. Work can be novel research or take the form of
+reviewing and summarizing prior work and providing information in a form that can be leveraged
+by other efforts moving forward. Developing and publishing relevant tools and databases 
+is also supported. Education-focused activities should have ongoing value beyond the grant 
+period, including for those who were not directly engaged in the supported effort.
+
+Example topics that are of particular interest are as follows, noting that grant proposals
+do not need to be limited to items on this list:
+
+* Mars surface environments and hardware design guidelines
+* Mars resource availability and processing, including both water and non-water resources
+* Power generation and energy storage, including methods that leverage local resources
+* Methods to leverage human missions and precursor activities to enhance the science and
+exploration of Mars, including approaches to Mars surface science with humans present
+* Long-range, regional- and global-scale surface mobility and exploration capabilities
+
+# Funding
+
+DevelopSpace anticipates initial funding will be between $500 and $2,500 per grant, with
+the award amount dependent on the size of the activity and ongoing value of the material
+developed through the course of the effort. The funds can be used in a variety of ways
+to best enable the goals of the project and support our mission, including but not limited
+to research expenses, travel costs, food for team activities, and modest stipends.
+
+In addition to monetary support, a variety of in-kind contributions can also be provided,
+including data storage and computing resources, technical and scientific review and advice,
+and assistance with broader fundraising and project administration activities.
+
+Proposals are encouraged globally, although US Government regulations may limit what
+entities can be supported. Support for non-US entities may require additional 
+time to coordinate transfer of funds if selected.
+
+Please reach out to us via email at [info@developspace.org](mailto:info@developspace.org) 
+for any questions throughout the process.
+
+_All aspects of the process used and the decisions made in the awarding of grants shall 
+be within the sole, exclusive, and absolute discretion of DevelopSpace Initiative, Inc._

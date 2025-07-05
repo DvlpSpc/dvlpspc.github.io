@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Licensing
+title: Open Source
 permalink: license/
 ---
 
