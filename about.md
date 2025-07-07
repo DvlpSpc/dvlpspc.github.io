@@ -21,5 +21,5 @@ Written correspondence and donations made out to DevelopSpace Initiative, Inc. m
 
 ## Content License
 
-Unless otherwise specified, all content on DevelopSpace.org is licensed under the
+Unless otherwise specified, content on DevelopSpace.org is licensed under the
 Creative Commons Attribution license (CC-BY-4.0). See our [license page](../license) for more information.
