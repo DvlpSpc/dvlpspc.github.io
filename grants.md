@@ -36,6 +36,7 @@ do not need to be limited to items on this list:
 
 * Mars surface environments and hardware design guidelines
 * Mars resource availability and processing, including both water and non-water resources
+* Evaluation of candidate landing sites and outpost locations, and associated surface operations
 * Power generation and energy storage, including methods that leverage local resources
 * Methods to leverage human missions and precursor activities to enhance the science and
 exploration of Mars, including approaches to Mars surface science with humans present
@@ -47,7 +48,9 @@ DevelopSpace anticipates initial funding will be between $500 and $2,500 per gra
 the award amount dependent on the size of the activity and ongoing value of the material
 developed through the course of the effort. The funds can be used in a variety of ways
 to best enable the goals of the project and support our mission, including but not limited
-to research expenses, travel costs, food for team activities, and modest stipends.
+to research expenses, travel costs, food for team activities, and modest stipends. In cases
+where available funding is unable to cover the full costs of an activity, the funds can
+be used to complement other support and we may be able to help secure additional funds.
 
 In addition to monetary support, a variety of in-kind contributions can also be provided,
 including data storage and computing resources, technical and scientific review and advice,
