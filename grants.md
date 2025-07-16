@@ -14,7 +14,7 @@ and engineering areas that share their results and methods in an open manner.
 
 We intend to request grant applications on a periodic basis, with funding opportunities
 two to three times per year. The initial call for proposals is expected to be released
-in July 2025, with proposals due before the end of August. You can signup to receive
+in July 2025, with proposals due before the end of August. You can sign up to receive
 updates on our grant program and DevelopSpace more generally through the form at the bottom of this page.
 
 # Topic Areas
