@@ -14,8 +14,9 @@ and engineering areas that share their results and methods in an open manner.
 
 We intend to request grant applications on a periodic basis, with funding opportunities
 two to three times per year. The initial call for proposals is expected to be released
-in July 2025, with proposals due before the end of August. You can sign up to receive
-updates on our grant program and DevelopSpace more generally through the form at the bottom of this page.
+in July 2025, with proposals due in early September. You can sign up to receive
+updates on our grant program and DevelopSpace more generally through the link at the bottom
+of this page.
 
 # Topic Areas
 
@@ -42,6 +43,11 @@ do not need to be limited to items on this list:
 exploration of Mars, including approaches to Mars surface science with humans present
 * Long-range, regional- and global-scale surface mobility and exploration capabilities
 
+We encourage applications from areas outside of traditional aerospace and planetary science fields,
+including those looking to apply terrestrial technologies towards Mars surface development.
+DevelopSpace can provide advisory support on applicability of particular approaches towards
+Mars exploration and development, and key questions to address.
+
 # Funding
 
 DevelopSpace anticipates initial funding will be between $500 and $2,500 per grant, with
@@ -52,8 +58,9 @@ to research expenses, travel costs, food for team activities, and modest stipend
 where available funding is unable to cover the full costs of an activity, the funds can
 be used to complement other support and we may be able to help secure additional funds.
 
-In addition to monetary support, a variety of in-kind contributions can also be provided,
-including data storage and computing resources, technical and scientific review and advice,
+In addition to monetary support, a variety of in-kind contributions can potentially be 
+provided by DevelopSpace in collaboration with the project. Examples could include
+data storage and computing resources, technical and scientific review and advice,
 and assistance with broader fundraising and project administration activities.
 
 Proposals are encouraged globally, although US Government regulations may limit what
