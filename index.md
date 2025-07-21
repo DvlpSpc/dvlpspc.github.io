@@ -5,8 +5,11 @@ layout: default
 
 # Welcome
 
-DevelopSpace is a non-profit organization dedicated to building the scientific and technical 
-foundations for human space activities through open source development methods.
+DevelopSpace is a non-profit organization dedicated to helping build the scientific and technical 
+foundations for human space activities through open source development methods. DevelopSpace engages 
+in research and educational endeavors with a focus on open sharing of relevant scientific and technical 
+resources, and fostering related activities and innovations. DevelopSpace enables a wide variety of
+individuals and groups to participate in the exploration, development, and utilization of space.
 
 This website is currently being rebuilt as we migrate content from 
 [wiki.developspace.net](https://wiki.developspace.net/). We have an early paper describing the overall 
