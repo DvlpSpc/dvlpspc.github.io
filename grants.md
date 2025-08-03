@@ -13,10 +13,13 @@ DevelopSpace is initiating a grants program to support projects working in relev
 and engineering areas that share their results and methods in an open manner.
 
 We intend to request grant applications on a periodic basis, with funding opportunities
-two to three times per year. The initial call for proposals is expected to be released
-in July 2025, with proposals due in early September. You can sign up to receive
-updates on our grant program and DevelopSpace more generally through the link at the bottom
-of this page.
+two to three times per year. You can sign up to receive updates on our grant program and 
+DevelopSpace more generally through the link at the bottom of this page.
+
+**Grant applications are now open! Please review the information below and then fill out
+the [grant application form](https://forms.gle/4JMaX9CS843FJmEZ7).** Applications are
+due by September 20, 2025 at 8 pm US CDT (GMT-05) in order to be considered for the
+current round. Earlier applications are encouraged.
 
 # Topic Areas
 
@@ -67,8 +70,9 @@ Proposals are encouraged globally, although US Government regulations may limit 
 entities can be supported. Support for non-US entities may require additional 
 time to coordinate transfer of funds if selected.
 
-Please reach out to us via email at [info@developspace.org](mailto:info@developspace.org) 
-for any questions throughout the process.
+The [grant application](https://forms.gle/4JMaX9CS843FJmEZ7) is available through Google Forms; 
+a Google account is not required in order to apply. Please reach out to us via email at 
+[info@developspace.org](mailto:info@developspace.org) for any questions throughout the process.
 
 _All aspects of the process used and the decisions made in the awarding of grants shall 
 be within the sole, exclusive, and absolute discretion of DevelopSpace Initiative, Inc._

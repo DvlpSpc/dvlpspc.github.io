@@ -3,6 +3,8 @@ layout: default
 #title: DevelopSpace
 ---
 
+***Grant applications are open now through September 20, 2025. See our [grants page](/grants/) for details.***
+
 # Welcome
 
 DevelopSpace is a non-profit organization dedicated to helping build the scientific and technical 
@@ -20,12 +22,12 @@ it was originally published, many of the items it outlined still hold.
 ## What we do
 
 DevelopSpace supports projects engaged in open source space development, including through advising, 
-financial support, and project hosting resources. We also provide open access scientific and 
+[financial support](/grants/), and project hosting resources. We also provide open access scientific and 
 technical content through our online library.
 
 ## How to help
 
-We are seeking volunteers in a number of areas, including project advisors and reviewers, content
+We are seeking [volunteers](/contribute/) in a number of areas, including project advisors and reviewers, content
 authoring, library curation, and web development. Please contact us via 
 [info@developspace.org](mailto:info@developspace.org) for more information.
 
