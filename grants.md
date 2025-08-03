@@ -34,6 +34,7 @@ reviewing and summarizing prior work and providing information in a form that ca
 by other efforts moving forward. Developing and publishing relevant tools and databases 
 is also supported. Education-focused activities should have ongoing value beyond the grant 
 period, including for those who were not directly engaged in the supported effort.
+Student- and volunteer-led efforts are welcome and encouraged.
 
 Example topics that are of particular interest are as follows, noting that grant proposals
 do not need to be limited to items on this list:
@@ -51,7 +52,7 @@ including those looking to apply terrestrial technologies towards Mars surface d
 DevelopSpace can provide advisory support on applicability of particular approaches towards
 Mars exploration and development, and key questions to address.
 
-# Funding
+# Funding and Other Support
 
 DevelopSpace anticipates initial funding will be between $500 and $2,500 per grant, with
 the award amount dependent on the size of the activity and ongoing value of the material
@@ -64,7 +65,10 @@ be used to complement other support and we may be able to help secure additional
 In addition to monetary support, a variety of in-kind contributions can potentially be 
 provided by DevelopSpace in collaboration with the project. Examples could include
 data storage and computing resources, technical and scientific review and advice,
-and assistance with broader fundraising and project administration activities.
+and assistance with broader fundraising and project administration activities. Non-monetary
+support can be made available to projects not selected for funding, which could help
+prepare a project for subsequent funding rounds. You may also contact us for information
+about potential advisory support during concept formulation and proposal preparation.
 
 Proposals are encouraged globally, although US Government regulations may limit what
 entities can be supported. Support for non-US entities may require additional 
