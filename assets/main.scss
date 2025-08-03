@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+
+.site-title{
+    line-height: 30px;
+}
+
+.site-title::before {
+	content: url("/assets/images/ds_logo_card_80.png");
+	display: inline-block;
+	position: relative;
+    text-align: left;
+    vertical-align: middle;
+    margin-right: 10px;
+}
