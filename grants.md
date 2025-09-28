@@ -16,10 +16,9 @@ We intend to request grant applications on a periodic basis, with funding opport
 two to three times per year. You can sign up to receive updates on our grant program and
 DevelopSpace more generally through the link at the bottom of this page.
 
-**Grant applications are now open! Please review the information below and then fill out
-the [grant application form](https://forms.gle/4JMaX9CS843FJmEZ7).** Applications are
-due by September 20, 2025 at 8 pm US CDT (GMT-05) in order to be considered for the
-current round. Earlier applications are encouraged.
+*The most recent grant application round closed on September 20, 2025.
+We are currently reviewing applications and will be selecting
+awardees shortly.*
 
 # Background
 
