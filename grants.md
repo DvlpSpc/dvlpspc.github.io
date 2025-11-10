@@ -7,6 +7,9 @@ permalink: grants/
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
+**DevelopSpace recently selected 14 projects for funding in our first round of grants!**
+You can read more about the selections on our [announcement page](/grants/2025/).
+
 # Overview
 
 DevelopSpace is initiating a grants program to support projects working in relevant science
@@ -16,9 +19,15 @@ We intend to request grant applications on a periodic basis, with funding opport
 two to three times per year. You can sign up to receive updates on our grant program and
 DevelopSpace more generally through the link at the bottom of this page.
 
-*The most recent grant application round closed on September 20, 2025.
-We are currently reviewing applications and will be selecting
-awardees shortly.*
+The below information provided the basis for our 2025 grants call, which led
+to the submission of a number high-quality proposals, and the [selection of projects](/grants/2025/) for funding.
+We thank everyone who submitted a proposal and our donors for helping make these grants
+possible.
+
+The specific items requested in future grant calls may change, although this
+information may be useful for projects preparing for those opportunities. Please feel
+free contact us with any questions or to discuss potential collaboration prior to the next
+grant round. You can subscribe to our [mailing list](/subscribe/) for information on future grant calls.
 
 # Background
 

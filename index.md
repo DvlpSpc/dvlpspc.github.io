@@ -3,6 +3,11 @@ layout: default
 #title: DevelopSpace
 ---
 
+**DevelopSpace is pleased to announce the selection of our first round of grant recipients!**
+You can read about the selections on our [announcement page](/grants/2025/). Thank you to
+all our donors for helping make this possible! Please sign up to our [mailing list](/subscribe/) for
+information on future grant opportunities.
+
 # Welcome
 
 DevelopSpace is a non-profit organization dedicated to helping build the scientific and technical
@@ -20,8 +25,8 @@ it was originally published, many of the items it outlined still hold.
 ## What we do
 
 DevelopSpace supports projects engaged in open source space development, including through advising,
-[financial support](/grants/), and project hosting resources. We also provide open access scientific and
-technical content through our online library.
+[financial support](/grants/), and [project hosting](/projects/) resources. We also provide open access
+scientific and technical content through our online library.
 
 ## How to help
 
