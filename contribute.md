@@ -4,9 +4,10 @@ title: Contribute
 permalink: contribute/
 ---
 
-DevelopSpace welcomes contributors to help support open source space development. We are actively seeking volunteers 
-and contributions to our online space reference library, including papers, reports, books, and software.
-Contributors can use the links at the bottom of the page to contact us or visit our GitHub page to help with projects listed there.
+In addition to [financial support](/donate/), DevelopSpace welcomes contributors to help support open source
+space development. We are actively seeking volunteers and contributions to our online space reference
+library, including papers, reports, books, and software. Contributors can use the links at the bottom
+of the page to contact us or visit our GitHub page to help with projects listed there.
 
 # Volunteer
 

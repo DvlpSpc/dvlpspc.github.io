@@ -28,7 +28,7 @@ grant effort and links to relevant results / resources that others can build upo
 The report and supporting material will include a description of how the completed
 work relates to other prior or current work, and suggestions for follow-on activities.
 
-We thank everyone who submitted a proposal and our donors who helped make these grants
+We thank everyone who submitted a proposal and our [donors](/donate/) who helped make these grants
 possible. Congratulations to the selected projects!
 
 ## Selected Projects

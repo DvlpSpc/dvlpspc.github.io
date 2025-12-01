@@ -5,7 +5,7 @@ layout: default
 
 **DevelopSpace is pleased to announce the selection of our first round of grant recipients!**
 You can read about the selections on our [announcement page](/grants/2025/). Thank you to
-all our donors for helping make this possible! Please sign up to our [mailing list](/subscribe/) for
+all our [donors](/donate/) for helping make this possible! Please sign up to our [mailing list](/subscribe/) for
 information on future grant opportunities.
 
 # Welcome
@@ -34,6 +34,5 @@ We are seeking [volunteers](/contribute/) in a number of areas, including projec
 authoring, library curation, and web development. Please contact us via
 [info@developspace.org](mailto:info@developspace.org) for more information.
 
-Donations are greatly appreciated, and can be made
- [via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJZT7DT5GJ8UC) or
- check, see the [about page](about) for more information.
+[Donations](/donate/) are greatly appreciated, helping support our grants program and other activities related to
+open source space development.

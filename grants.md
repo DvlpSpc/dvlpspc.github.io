@@ -21,7 +21,7 @@ DevelopSpace more generally through the link at the bottom of this page.
 
 The below information provided the basis for our 2025 grants call, which led
 to the submission of a number high-quality proposals, and the [selection of projects](/grants/2025/) for funding.
-We thank everyone who submitted a proposal and our donors for helping make these grants
+We thank everyone who submitted a proposal and our [donors](/donate/) for helping make these grants
 possible.
 
 The specific items requested in future grant calls may change, although this
